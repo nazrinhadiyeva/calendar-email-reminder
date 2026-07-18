@@ -21,3 +21,6 @@ This project was built to learn workflow automation and event-driven systems.
 - Workflow design with Pipedream
 - Google Calendar integration
 - Email automation
+## 📸 Workflow
+
+![Workflow](workflow.png.png)
