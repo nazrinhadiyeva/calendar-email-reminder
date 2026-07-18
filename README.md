@@ -15,3 +15,9 @@ This project automatically sends email reminders for upcoming calendar events us
 
 ## 🎯 Purpose
 This project was built to learn workflow automation and event-driven systems.
+## 🚀 What I Learned
+
+- Event-driven automation
+- Workflow design with Pipedream
+- Google Calendar integration
+- Email automation
